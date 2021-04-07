@@ -12,9 +12,9 @@ function App() {
       <div>
         <Navbar />
         <Wrapper>
-          <Route path="/" component={About} />
-          <Route path="/about" component={About} />
-          <Route path="/portfolio" component={Portfolio} />
+          <Route exact path="https://mrramontorres.github.io/react-portfolio/" component={About} />
+          <Route exact path="https://mrramontorres.github.io/react-portfolio/about" component={About} />
+          <Route exact path="https://mrramontorres.github.io/react-portfolio/portfolio" component={Portfolio} />
         </Wrapper>
         <Footer />
       </div>
