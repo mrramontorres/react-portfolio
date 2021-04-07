@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Team Profile",
+    "image": "https://mrramontorres.github.io/portfolio/Assets/Images/Portfolio/team.png",
+    "repository": "https://github.com/mrramontorres/team-profile-generator/",
+    "application": "https://drive.google.com/drive/u/1/folders/1SEUXHywEwC5JOhgOqDxoBIAQt36-ZXaW"
+  },
+  {
+    "id": 2,
+    "name": "Essential Connections",
+    "image": "https://mrramontorres.github.io/portfolio/Assets/Images/Portfolio/essential.png",
+    "repository": "https://github.com/mrramontorres/project-1",
+    "application": "https://mrramontorres.github.io/project-1/"
+  },
+  {
+    "id": 3,
+    "name": "Weather Dashboard",
+    "image": "https://mrramontorres.github.io/portfolio/Assets/Images/Portfolio/weather.png",
+    "repository": "https://github.com/mrramontorres/weather-dashboard/",
+    "application": "https://mrramontorres.github.io/weather-dashboard/"
+  },
+  {
+    "id": 4,
+    "name": "Password Generator",
+    "image": "https://mrramontorres.github.io/portfolio/Assets/Images/Portfolio/password.png",
+    "occupation": "https://github.com/mrramontorres/password-generator/",
+    "location": "https://mrramontorres.github.io/password-generator/"
+  },
+  {
+    "id": 5,
+    "name": "Workday Scheduler",
+    "image": "https://mrramontorres.github.io/portfolio/Assets/Images/Portfolio/scheduler.png",
+    "occupation": "https://github.com/mrramontorres/work-day-scheduler/",
+    "location": "https://mrramontorres.github.io/work-day-scheduler/index.html"
+  },
+  {
+    "id": 6,
+    "name": "Coding Quiz",
+    "image": "https://mrramontorres.github.io/portfolio/Assets/Images/Portfolio/quiz.png",
+    "occupation": "https://github.com/mrramontorres/code-quiz/",
+    "location": "https://mrramontorres.github.io/code-quiz/quiz.html"
+  }
+]
